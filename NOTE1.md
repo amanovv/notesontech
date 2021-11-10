@@ -1,3 +1,4 @@
 # Machine Learning (ML) - Artificial Intelligence (AI)
 
-#### Two terms used interchangebly
+#### Two terms that probably all around
+
