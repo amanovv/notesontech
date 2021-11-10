@@ -14,5 +14,7 @@ Only hard case examples are from giant companies like Amazon, Google, Nvidia, Ap
 
 Another logic behind the hype of current state of AI, is venture capitals are pouring money to AI. I am not sure how many of you had experience with talking people from venture capital. Venture capitals have extremely limited knowledge about AI/ML, almost no idea. 
 
+All these may sound critical of machine learning. Nah, I am not critical of ML, I love the ML, but, the one that is not super intelligence. There is very small intelligence on ML, it is mostly deductions. Intelligence is mostly inductions and abstractions among various parts of life experience. Ye, I am critical of machine learning that is being claimed to be super intelligence or intelligence at all. When something works in this world, it has numerous reasons why it has worked.
+
 So, I will try to bring almost everything on ML, in this series of written notes which I may eventually make audio.
 
